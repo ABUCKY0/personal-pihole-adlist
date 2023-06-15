@@ -1,1 +1,24 @@
-	(\.|^)hotjar\.com$
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+afs.googlesyndication.com
+insights.hotjar.com
+freshmarketer.com
+cdn.luckyorange.com
+app.getsentry.com
+extmaps-api.yandex.net
+appmetrica.yandex.ru
+adfstat.yandex.ru
+metrika.yandex.ru
+adfox.yandex.ru
+udc.yahoo.com
+api.bugsnag.com
+app.bugsnag.com
+widgets.pinterest.com
+events.reddit.com
+analytics-sg.tiktok.com
+business-api.tiktok.com
+log.byteoversea.com
+log.fc.yahoo.com
+adtech.yahooinc.com
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
