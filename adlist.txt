@@ -1,7 +1,12 @@
 analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
+advertising-api-eu.amazon.com
 afs.googlesyndication.com
 insights.hotjar.com
+adm.hotjar.com
+events.hotjar.io
+surveys.hotjar.com
+identify.hotjar.com
 freshmarketer.com
 cdn.luckyorange.com
 app.getsentry.com
@@ -22,3 +27,12 @@ log.fc.yahoo.com
 adtech.yahooinc.com
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
+cdn-test.mouseflow.com
+claritybt.freshmarketer.com
+api.luckyorange.com
+realtime.luckyorange.com
+browser.sentry-cdn.com
+app.getsentry.com
+widgets.pinterest.com
+events.reddit.com
+ads-api.tiktok.com
